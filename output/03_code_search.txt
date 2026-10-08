@@ -1,2 +1,2 @@
-./main.py
-./utils/helper.py
+workspace/project/main.py
+workspace/project/utils/helper.py
